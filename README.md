@@ -24,7 +24,7 @@ https://nomankarim8.github.io/Ncover/
 
 ### Cover Page Generator Interface
 
-<img width="900" alt="preview" src="screenshots/app-preview.png.png">
+<img width="900" alt="preview" src="screenshots/app-preview.png">
 
 ### Generated Cover Page (A4 Format)
 
