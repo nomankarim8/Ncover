@@ -15,7 +15,7 @@ Instead of manually formatting documents in Word, students can simply enter thei
 # 🚀 Live Demo
 
 ```
-https://your-demo-link.com
+https://nomankarim8.github.io/Ncover/
 ```
 
 ---
@@ -64,7 +64,7 @@ https://your-demo-link.com
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ncover.git
+git clone https://github.com/nomankarim8/ncover.git
 ```
 
 Move to project folder
