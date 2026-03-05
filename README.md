@@ -24,11 +24,11 @@ https://your-demo-link.com
 
 ### Cover Page Generator Interface
 
-<img width="900" alt="preview" src="screenshots/app-preview.png">
+<img width="900" alt="preview" src="screenshots/app-preview.png.png">
 
 ### Generated Cover Page (A4 Format)
 
-<img width="600" alt="pdf" src="screenshots/pdf-preview.png">
+<img width="600" alt="pdf" src="screenshots/app-preview.png">
 
 ---
 
