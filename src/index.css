@@ -6,6 +6,10 @@
   --font-serif: "Playfair Display", serif;
   --font-stylish: "Cormorant Garamond", serif;
   --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-primary: #87cefa;
+  --color-secondary: #00ff7f;
+  --color-accent: #00ff7f;
 }
 
 @layer base {
