@@ -28,7 +28,7 @@ https://ncover-ox2514nwb-noman-karims-projects.vercel.app/
 
 ### Generated Cover Page (A4 Format)
 
-<img width="600" alt="pdf" src="screenshots/pdf-preview.png">
+<img width="600" alt="pdf" src="screenshots/app-preview.png">
 
 ---
 
