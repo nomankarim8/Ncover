@@ -10,7 +10,7 @@
 
 Instead of manually formatting documents in Word, students can simply enter their details and **download a clean PDF cover page instantly**.
 
----
+--- 
 
 # 🚀 Live Demo
 
