@@ -190,7 +190,7 @@ export default function App() {
                   placeholder="Enter University Name"
                 />
               </div>
- 
+  
               <div className="col-span-full space-y-2">
                 <label className="text-sm font-medium text-zinc-700">University Logo</label>
                 <div className="flex items-center gap-4">
